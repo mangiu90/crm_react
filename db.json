@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Manuel",
+      "empresa": "HD soluciones",
+      "email": "giudicimanuel@gmail.com",
+      "telefono": "3464582788",
+      "notas": "dddfffggghhhjklñ",
+      "id": 1
+    },
+    {
+      "nombre": "ABBA DAVID RICARDO",
+      "empresa": "ss",
+      "email": "giudicimanuel@gmail.com",
+      "telefono": "3464582788",
+      "notas": "ssd",
+      "id": 3
+    },
+    {
+      "nombre": "ABBA ",
+      "empresa": "ss",
+      "email": "giudicimanuel@gmail.com",
+      "telefono": "3464582788",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "ACOSTA CARLOS L",
+      "empresa": "hhh",
+      "email": "giudicimanuel@gmail.com",
+      "telefono": "3464582788",
+      "notas": "ggg",
+      "id": 5
+    }
+  ]
+}
